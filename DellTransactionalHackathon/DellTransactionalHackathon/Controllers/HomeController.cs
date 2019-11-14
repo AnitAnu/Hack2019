@@ -10,7 +10,7 @@ namespace DellTransactionalHackathon.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page Loaded";
+            ViewBag.Title = " Home Page Loaded ";
 
             return View();
         }
